@@ -90,12 +90,12 @@ cd YOUR_REPOSITORY_NAME
 
 Watch our 15-minute video demonstration explaining the paper, our novel contributions, and a walkthrough of the codebase:
 
-[**▶️ Watch on YouTube**](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[**▶️ Watch on YouTube**](https://youtu.be/OP_m8KR2kWQ)
 
 ---
 
 ## 👥 Team
 
-* **[Pratyush Chauhan]** - Base Paper + LLM Contribution Lead
-* **[Aditya Jain]** - DINOv2 Contribution + Pipeline Lead
+* **[Pratyush Chauhan]** - Base Paper + +DINOv2 Contribution 
+* **[Aditya Jain]** -LLM Contribution Lead + Pipeline Lead
 * **[Pratyush Chauhan]** - Experiments + Visualization + Documentation Lead
